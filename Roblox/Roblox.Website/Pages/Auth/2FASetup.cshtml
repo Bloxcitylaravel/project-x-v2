@@ -1,0 +1,44 @@
+@page "/auth/2fa"
+@model Roblox.Website.Pages.Auth.TotpSetup
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 col-md-6 offset-md-3 col-lg-4 offset-lg-4">
+            <h2>2FA Setup</h2>
+            @if (string.IsNullOrEmpty(Model.successMessage))
+            {
+                @if (Model.errorMessage != null)
+                {
+                    <p class="text-danger">@Model.errorMessage</p>
+                }
+
+                <div class="card card-body bg-dark text-light">
+                    <p>Scan this QR code with <a href="https://support.google.com/accounts/answer/1066447">Google Authenticator</a> or any other TOTP app that you like</p>
+                    <img width=200 height=200 src="@Model.qrcode" class="rounded mx-auto d-block">
+                    <p class="mx-auto d-block">@Model.secret</p>
+                </div>
+
+                <form method="post">
+                    <input type="text" placeholder="2FA Code" autocomplete="off" minlength="6" maxlength="6" pattern="\d*"  name="totpcode" class="form-control mb-1"/>
+                    @Html.AntiForgeryToken()
+                    <input class="btn btn-primary" type="submit" value="Enable 2FA" id="2fa-submit"/>
+                </form>
+            }
+            else
+            {
+                <p class="text-success">@Model.successMessage</p>
+                <form method="post">
+                    <input type="text" placeholder="2FA Code" autocomplete="off" minlength="6" maxlength="6" pattern="\d*"  name="totpcode" class="form-control mb-1"/>
+                    <input type="hidden" name="mode" value="delete"/>
+                    @Html.AntiForgeryToken()
+                    <input class="btn btn-danger" type="submit" value="Remove 2FA" id="2fa-submit"/>
+                </form>
+            }
+        </div>
+    </div>
+</div>
+

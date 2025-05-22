@@ -1,0 +1,19 @@
+{
+  "Mode": "Thumbnail",
+  "Settings": {
+    "Type": "Hat",
+    "Arguments": [
+       %assetUrl%,
+       "PNG",
+       1680,
+       1680,
+       "https://www.projex.zip",
+       true,
+       0,
+       0,
+       0,
+       0
+    ]
+  },
+  "Arguments": {}
+}

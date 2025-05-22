@@ -1,0 +1,21 @@
+{
+  "Mode": "Thumbnail",
+  "Settings": {
+    "Type": "Package",
+    "Arguments": [
+       %assetUrls%,
+       %baseUrl%,
+       "PNG",
+       %x%,
+       %y%,
+       %RigURL%,
+       "",
+       true,
+       0,
+       0,
+       0,
+       0
+    ]
+  },
+  "Arguments": {}
+}

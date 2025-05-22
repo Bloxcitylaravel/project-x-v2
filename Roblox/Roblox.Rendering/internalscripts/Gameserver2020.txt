@@ -1,0 +1,23 @@
+{
+    "Mode": "GameServer",
+    "Settings": {
+        "PlaceId": %placeId%,
+        "CreatorId": %creatorId%,
+        "GameId": "%jobId%",
+        "MachineAddress": "45.137.70.23",
+        "MaxPlayers": 30,
+        "GsmInterval": 999999,
+        "MaxGameInstances": 5,
+        "PreferredPlayerCapacity": 30,
+        "UniverseId": %port%,
+        "BaseUrl": "projex.zip",
+        "PlaceFetchUrl": "https://www.projex.zip/asset/?id=%placeId%",
+        "MatchmakingContextId": 1,
+        "CreatorType": "User",
+        "PlaceVersion": 1,
+        "JobId": "%jobId%",
+        "PreferredPort": %port%,
+        "ApiKey": "hi",
+        "PlaceVisitAccessKey": "hi"
+    }
+}

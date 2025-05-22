@@ -1,0 +1,43 @@
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+.container {
+    max-width: 400px;
+    margin-top: 100px;
+}
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background-color: #441263;
+    color: #fff;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    padding: 20px;
+}
+
+.card-body {
+    background-color: #ffffff;
+    padding: 20px;
+}
+.form-label {
+    font-weight: bold;
+}
+.btn-primary {
+    transition: background-color 0.3s ease;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+.btn-block {
+    border-radius: 0;
+}
+.dark-mode {
+    background-color: #343a40;
+    color: #fff;
+}
+.full-width-button {
+    width: 100%;
+}

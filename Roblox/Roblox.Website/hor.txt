@@ -1,0 +1,124 @@
+This is a list of false DMCA's/Phishing reports we got.
+We have redacted the personal info due to privacy.
+Enjoy ^w^
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 29/10/2024
+Reporter's Name: [redacted]
+Reporter's Email Address: [redacted]
+Reporter's Address: [redacted]
+Reported URLs:
+https://projex.zip
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+Stolen copyright from Roblox without permission from us. Cyanide Bandz the legal agent has been asked to forward this.
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 29/08/2024
+Reporter's Name: [redacted]
+Reporter's Email Address: [redacted]
+Reporter's Company Name: Roblox Corporation
+Reporter's Address: [redacted]
+Reported URLs:
+https://www.projex.zip/catalog/5540/Black-Pointy-Fluffy-Ears
+https://www.projex.zip
+https://www.projex.zip/games
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+The first URL is a straight copy of https://www.roblox.com/catalog/5459995751/Black-Pointy-Fluffy-Ears and features a UGC (User Generated Content) hat.
+The Roblox favicon, or website icon, is present in the other 2 URLs and is owned by Roblox Corporation.
+Additionally, the website design is a straight copy of the 2016 version of roblox.com.
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 23/08/2024
+Reporter's Name: [redacted]
+Reporter's Email Address: [redacted]
+Reporter's Title: Project X
+Reporter's Address: [redacted]
+Reported URLs:
+https://projex.zip
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+Copying roblox. Says its not, but it is. It uses its clients and erverything. Its so bad. And theres some people on there saying REALLY bad things. Please take care of this.
+
+---------------------------------------------------------------------
+Type: Phishing
+Date: 02/06/2024
+Reporter: Anonymous
+Reported URLs:
+https://projex.zip
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+Logs or Evidence of Abuse: roblox cookies are being stolen, and its hacking.
+and its a fake old roblox revival
+
+Comments: steals roblox cookies which is hacking
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 01/03/2024
+Reporter's Name: [redacted]
+Copyright Holder's Name: Roblox Corporation
+Reporter's Email Address: [redacted]
+Reporter's Address: [redacted]
+Reported URLs:
+https://projex.zip/home
+https://projex.zip/catalog
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+The domain "projex.zip" copied pages from "roblox.com"
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 28/02/2024
+Reporter's Name: [redacted]
+Copyright Holder's Name: Roblox Corp.
+Reporter's Email Address: [redacted]
+Reporter's Address: [redacted]
+Reported URLs:
+https://projex.zip/games
+https://projex.zip/catalog
+https://projex.zip/
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+Similar artwork and assets from here
+https://www.roblox.com/discover
+https://www.roblox.com/catalog
+https://www.roblox.com/
+
+---------------------------------------------------------------------
+Type: DMCA
+Date: 24/02/2024
+Reporter's Name: [redacted]
+Copyright Holder's Name: Roblox Corp.
+Reporter's Email Address: [redacted]
+Reporter's Company Name: ROBLOX
+Reporter's Address: [redacted]
+Reported URLs:
+https://projex.zip/home
+https://projex.zip/games
+https://projex.zip/catalog
+https://projex.zip/develop
+https://projex.zip/My/Account
+Verdict: Ignored by host due to false claim
+---------------------------------------------------------------------
+
+These links are using ROBLOX's frontend from 2016 which is stolen and there's been no frontend modifications. It functions like ROBLOX, it's similar to ROBLOX.
+ORIGINAL WORK:
+https://roblox.com/home
+https://roblox.com/games (now called discover)
+https://roblox.com/catalog
+https://roblox.com/develop (now called create.roblox.com)
+https://roblox.com/My/Account now called
+These pages way back to 2006-now are all copyrighted and not legal to use on your own website.
+
+---------------------------------------------------------------------

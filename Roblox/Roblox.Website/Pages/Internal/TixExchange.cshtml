@@ -1,0 +1,36 @@
+@page "/internal/tixexchange"
+@model Roblox.Website.Pages.Internal.TixExchange
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+@section MetaTags {
+    <title>Tix Exchange</title>
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 col-lg-6 offset-lg-3">
+            <div class="card card-body bg-dark text-light">
+                <h2>Tix Exchange</h2>
+                @if (Model.successMessage != null)
+                {
+                    <p class="text-success">@Model.successMessage</p>
+                }
+                @if (Model.errorMessage != null)
+                {
+                    <p class="text-danger">@Model.errorMessage</p>
+                }
+                <form method="post" autocomplete="off">
+                    <div class="mt-4">
+                        <label for="tix">Amount of Tix</label>
+                        <input type="number" class="form-control" id="tix" name="tix" value="@Model.tix" />
+                    </div>
+                    @Html.AntiForgeryToken()
+                    <input type="submit" class="btn btn-primary mt-4" value="Submit Changes" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

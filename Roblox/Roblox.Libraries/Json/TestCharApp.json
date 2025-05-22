@@ -1,0 +1,32 @@
+{
+  "scales": {
+    "height": 1,
+    "width": 1,
+    "head": 1,
+    "depth": 1,
+    "proportion": 0,
+    "bodyType": 0
+  },
+  "playerAvatarType": "R15",
+  "bodyColors": {
+    "headColorId": 102,
+    "torsoColorId": 102,
+    "rightArmColorId": 102,
+    "leftArmColorId": 102,
+    "rightLegColorId": 102,
+    "leftLegColorId": 102
+  },
+  "assets": [
+    {
+      "id": 68,
+      "name": "Doge",
+      "assetType": {
+        "id": 8,
+        "name": "Hat"
+      },
+      "currentVersionId": 68
+    }
+  ],
+  "defaultShirtApplied": false,
+  "defaultPantsApplied": false
+}

@@ -1,0 +1,20 @@
+{
+  "Mode": "Thumbnail",
+  "Settings": {
+    "Type": "Head",
+    "Arguments": [
+       %assetUrl%,
+       "PNG",
+       %x%,
+       %y%,
+       %baseUrl%,
+       %mannequinId%,
+       true,
+       0,
+       0,
+       0,
+       0
+    ]
+  },
+  "Arguments": {}
+}

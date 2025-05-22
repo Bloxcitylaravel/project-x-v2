@@ -1,0 +1,14 @@
+@page "/auth/discord"
+@model Roblox.Website.Pages.Auth.Discord
+
+@{
+    Layout = "Shared/_Layout";
+}
+
+@section MetaTags {
+    <title>Discord Server</title>
+}
+
+@{
+    Response.Redirect("https://discord.gg/oldroblox");
+}
