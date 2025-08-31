@@ -1,3 +1,5 @@
-Project X V2 Roblox Revival src
+Pekora Roblox Revival src
 
 Note: this is old
+
+Updated SRC: https://github.com/tooblewtf/pekora-latest-src
